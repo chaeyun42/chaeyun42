@@ -1,10 +1,4 @@
-<h1 align="center">👋 안녕하세요! 저는 박채윤입니다.</h1>
-
-<p align="center">
-  🐢느리지만 꾸준히 성장하고 있습니다
-</p>
-
----
+<h1 align="center"> 안녕하세요! 느리지만 꾸준히 성장하는 중입니다 🐢 </h1>
 
 ## 🧑‍💻 About Me
 
@@ -39,7 +33,7 @@
 
 ### 🖧 Server
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-
+![Apache](https://img.shields.io/badge/Apache_HTTP_Server-D22128?logo=apache&logoColor=white)
 ---
 
 ### 🛠 Tooling / DevOps
