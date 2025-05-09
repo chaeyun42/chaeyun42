@@ -9,12 +9,6 @@
 
 ---
 
-# 💼 포트폴리오
-
-
-
----
-
 ## 🧠 Tech Stack Overview
 
 ### 🖥 Programming Languages
@@ -53,6 +47,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
 💾 NAS (Network Attached Storage)
+
+---
+# ![ProjectCluelessGIF (2)](https://github.com/user-attachments/assets/07b6f442-902a-4044-a53c-7e947f451dd3)
+![ProjectCluelessGIF](https://github.com/user-attachments/assets/2370de06-e5a5-4a5b-80b4-08ef0efe77c0)
+ 
+
+
+
+
+
 
 
 
