@@ -29,13 +29,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 ![Mermaid.js](https://img.shields.io/badge/Mermaid.js-00B4B6?logo=mermaid&logoColor=white)
-### 🔁 Example Diagram (Mermaid)
-
-```mermaid
-graph TD
-    A[User] --> B[Frontend (React)]
-    B --> C[Backend (Django)]
-    C --> D[Database (MySQL)]
 
 ---
 
